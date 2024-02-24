@@ -1,4 +1,4 @@
 # amazon-bestseller-with-react
-Deployed on netlify app with this link https://app.netlify.com/sites/amazon-bestseller-project/configuration/general
+Deployed on netlify app with this link https://amazon-bestseller-project.netlify.app/
 Simple  basic  application that shows the fundamentals of react
 Built components with npx create react app.
